@@ -3,7 +3,7 @@ Friday, 12 March 12:00 PT — Sunday, 14 March 12:00 PT 48-hour Competition <br>
 
 Table of contents
 - [Warmups](#Warmups)
-  - [Read The Rules] (#Read The Rules)
+  - [Read The Rules](#Read-The-Rules)
   - Car Keys
   - esab64
   - Shoelaces
@@ -21,7 +21,7 @@ Table of contents
 - 
 # **Warmups**
 
-# **Read The Rules**<br>
+### **Read The Rules**<br>
 Please follow the rules for this CTF!<br>
 
 **Solution** : ctrl+u at the Rules page<br>
