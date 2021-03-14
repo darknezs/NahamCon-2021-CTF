@@ -45,7 +45,11 @@ _**flag{fb5211b498afe87b1bd0db601117e16e}**_
 # **Shoelaces**
 Do you double-knot your shoelaces? You gotta keep'em tied! <br>
 ![](https://github.com/darknezs/NahamCon-2021-CTF/blob/main/source/shoelaces.png)
-**Solution**:  ```sh strings shoelaces.jpg | grep flag{.*}  ```<br>
+**Solution**:  
+```sh
+$ strings shoelaces.jpg | grep flag{.*}  
+```
+
 _**flag{137288e960a3ae9b148e8a7db16a69b0}**_
 ![](https://github.com/darknezs/NahamCon-2021-CTF/blob/main/source/shoe_solve.png)
 # **Veebee** 
