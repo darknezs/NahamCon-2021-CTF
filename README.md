@@ -9,3 +9,4 @@ Please follow the rules for this CTF!<br>
 
 Solution : ctrl+u at the Rules page<br>
 _flag{90bc54705794a62015369fd8e86e557b}_<br>
+![](https://github.com/darknezs/NahamCon-2021-CTF/blob/main/source/readRules.png)
