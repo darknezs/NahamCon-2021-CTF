@@ -1,4 +1,4 @@
-# NahamCon-2021-CTF
+# NahamCon-2021-CTF writeups
 Friday, 12 March 12:00 PT — Sunday, 14 March 12:00 PT 48-hour Competition <br>
 
 Table of contents
