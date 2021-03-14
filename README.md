@@ -44,7 +44,7 @@ _**flag{fb5211b498afe87b1bd0db601117e16e}**_
 ![](https://github.com/darknezs/NahamCon-2021-CTF/blob/main/source/base64.PNG)
 # **Shoelaces**
 Do you double-knot your shoelaces? You gotta keep'em tied! <br>
-![](https://github.com/darknezs/NahamCon-2021-CTF/blob/main/source/shoelaces.jpg)
+[shoelaces.jpg](https://github.com/darknezs/NahamCon-2021-CTF/blob/main/source/shoelaces.jpg)<br>
 **Solution**:  
 ```sh
 $ strings shoelaces.jpg | grep flag{.*}  
@@ -64,6 +64,8 @@ Resource: https://github.com/JohnHammond/vbe-decoder
 
 # **Treasure**
 This movie is what pushed me to get into hacking. Good luck decrypting my note, I'm elite. <br>
+[hackers.txt](https://github.com/darknezs/NahamCon-2021-CTF/blob/main/source/hackers.txt)<br>
+[note.txt](https://github.com/darknezs/NahamCon-2021-CTF/blob/main/source/note.txt) <br>
 **Solution**: book cipher<br>
 _**flag{62D869C6B886DAC2DD743086E451F76B}**_<br>
 ![](https://github.com/darknezs/NahamCon-2021-CTF/blob/main/source/tresure.png) <br>
@@ -89,9 +91,21 @@ ssh -p 32140 user@challenge.nahamcon.com | Password is userpass <br>
  ``` 
 _**flag{db758a0cc25523993416c305ef15f9ad}**_
 ![](https://github.com/darknezs/NahamCon-2021-CTF/blob/main/source/solve_abyss.png) <br>
+
 # **Mission**
 # **the mission**
+Enter the flag you find on The Mission page to open the gates and unlock challenges for The Mission <br>
+
+**Solution**: ctrl+u at the mission page<br>
+_**flag{48e117a1464c3202714dc9a350533a59}**_<br>
+
+
 # **Bionic**
+Thank you for taking on The Mission. You can begin by exploring the CONSTELLATIONS public website, constellations.page.
+CONSTELLATIONS has "tried" to reduce their attack surface by offering just a static website. But you might find some low-hanging fruit to get you started. <br>
+**Solution**:check /robots.txt
+_**flag{33b5240485dda77430d3de22996297a1}**_
+![](https://github.com/darknezs/NahamCon-2021-CTF/blob/main/source/bionic.png) <br>
 
 # **nahamcon**
 Merch store  <br>
