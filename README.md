@@ -40,7 +40,7 @@ Was it a car or a cat I saw? <br>
 _MxWYntnZiVjMxEjY0kDOhZWZ4cjYxIGZwQmY2ATMxEzNlFjNl13X_ <br>
 **Solution**: esab64 is reverse of “base64” then bring string to reverse and then decode with base64 and reverse again.<br>
 _**flag{fb5211b498afe87b1bd0db601117e16e}**_
-![](https://github.com/darknezs/NahamCon-2021-CTF/blob/main/source/base64.png)
+![](https://github.com/darknezs/NahamCon-2021-CTF/blob/main/source/base64.PNG)
 # **Shoelaces**
 Do you double-knot your shoelaces? You gotta keep'em tied! <br>
 ![](https://github.com/darknezs/NahamCon-2021-CTF/blob/main/source/shoelaces.png)
