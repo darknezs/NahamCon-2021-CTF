@@ -4,8 +4,8 @@ Friday, 12 March 12:00 PT — Sunday, 14 March 12:00 PT 48-hour Competition <br>
 
 [Warmups](#Warmups)
 
-# Foo
-**#Warmups**
+
+# **Warmups**
 
 **Read The Rules**<br>
 Please follow the rules for this CTF!<br>
