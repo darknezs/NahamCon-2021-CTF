@@ -1,2 +1,3 @@
 # NahamCon-2021-CTF
-![](https://github.com/darknezs/NahamCon-2021-CTF/blob/main/source/logo.PNG =100)
+<img src="https://github.com/darknezs/NahamCon-2021-CTF/blob/main/source/logo.PNG" width="200">
+
