@@ -18,7 +18,7 @@ Table of contents
   - [the mission](#the-mission)
   - [Bionic](#Bionic)
 - [nahamcon](#nahamcon)
-- 
+
 # **Warmups**
 
 # **Read The Rules**<br>
@@ -103,7 +103,7 @@ _**flag{48e117a1464c3202714dc9a350533a59}**_<br>
 # **Bionic**
 Thank you for taking on The Mission. You can begin by exploring the CONSTELLATIONS public website, constellations.page.
 CONSTELLATIONS has "tried" to reduce their attack surface by offering just a static website. But you might find some low-hanging fruit to get you started. <br>
-**Solution**:check /robots.txt
+**Solution**:check /robots.txt<br>
 _**flag{33b5240485dda77430d3de22996297a1}**_
 ![](https://github.com/darknezs/NahamCon-2021-CTF/blob/main/source/bionic.png) <br>
 
