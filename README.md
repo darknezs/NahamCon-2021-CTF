@@ -44,7 +44,7 @@ _**flag{fb5211b498afe87b1bd0db601117e16e}**_
 ![](https://github.com/darknezs/NahamCon-2021-CTF/blob/main/source/base64.PNG)
 # **Shoelaces**
 Do you double-knot your shoelaces? You gotta keep'em tied! <br>
-![](https://github.com/darknezs/NahamCon-2021-CTF/blob/main/source/shoelaces.png)
+![](https://github.com/darknezs/NahamCon-2021-CTF/blob/main/source/shoelaces.jpg)
 **Solution**:  
 ```sh
 $ strings shoelaces.jpg | grep flag{.*}  
