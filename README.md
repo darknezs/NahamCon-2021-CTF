@@ -1,11 +1,11 @@
 # NahamCon-2021-CTF
 Friday, 12 March 12:00 PT — Sunday, 14 March 12:00 PT 48-hour Competition <br>
 
-[Read the rule](https://www.google.com)
-[Custom foo description](#foo)
+
+[Warmups](#Warmups)
 
 # Foo
-**Warmups**
+**#Warmups**
 
 **Read The Rules**<br>
 Please follow the rules for this CTF!<br>
